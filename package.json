@@ -1,10 +1,14 @@
 {
   "name": "fix-permissions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chmods all files to 644 and all folders to 755 recursively",
   "main": "fix-permissions",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yursha/fix-permissions"
   },
   "author": "Alex Yursha",
   "license": "ISC"
